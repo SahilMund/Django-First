@@ -1,5 +1,6 @@
 # Django Telusko
-[Follow this](https://www.youtube.com/watch?v=OTmQOjsl0eg)
+[Follow this](https://www.youtube.com/watch?v=OTmQOjsl0eg)<br>
+     
 Here you can find two applications, first one is a simple django based calculator (using forms and POST requests), and the second app is TRAVELLO website.
 ### If you want to run the project you must create migrations for each apps:
 ``` bash
